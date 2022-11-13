@@ -60,7 +60,7 @@ const FirstPage = () => {
         >
           <a
             className="px-5 py-3 text-lg text-white rounded-xl bg-[#F3B900] hover:bg-opacity-80 outline-none"
-            href="https://github.com/VeoScript/rekados-mobile/releases/download/pre-release/rekados-android.apk"
+            href="https://github.com/VeoScript/rekados-mobile/releases/download/release-version-2/rekados-android.apk"
             target="_blank"
           >
             Download the app
