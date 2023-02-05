@@ -32,8 +32,8 @@ export default function Home() {
         <section id="about" className="flex flex-col items-center w-full h-screen px-5 md:px-0">
           <SixthPage />
           <footer className="flex flex-col items-center w-full p-5">
-            <p className="text-sm md:text-base">&copy; 2022 Rekados. All rights reserved.</p>
-            <p className="font-light text-xs">Designed and Developed by Jerome Villaruel (VEOSCRIPT)</p>
+            <p className="text-center text-[12px] md:text-base">&copy; 2022 Rekados. All rights reserved.</p>
+            <p className="font-light text-center text-[11px] md:text-xs">Designed and Developed by Jerome Villaruel (VEOSCRIPT)</p>
           </footer>
         </section>
       </div>

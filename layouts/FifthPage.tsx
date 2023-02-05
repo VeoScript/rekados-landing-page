@@ -10,7 +10,7 @@ const FifthPage = () => {
           maybe it will take a while to release but we can handle it as soon as possible. <br />
           For now let's enjoy the android version of rekados app first
         </p>
-        <p className="px-5 py-3 text-lg text-white rounded-xl bg-[#F3B900] hover:bg-opacity-80 outline-none cursor-wait">
+        <p className="px-5 py-3 text-sm md:text-lg text-white rounded-xl bg-[#F3B900] hover:bg-opacity-80 outline-none cursor-wait">
           Coming Soon
         </p>
       </div>
